@@ -1,5 +1,5 @@
 # DEMO!
-[Demo](http://www.zchang.tech/wp-content/uploads/2018/10/ScreenRecording_10-16-2018-21-46-36.mp4)
+[Demo](https://drive.google.com/file/d/1sIhiUoUIvph-naV5g6evN6TaIxVFdk2h/view?usp=sharing)
 
 
 # Hangouts Chat card bot
