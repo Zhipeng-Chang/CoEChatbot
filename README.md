@@ -2,15 +2,7 @@
 [Demo](https://drive.google.com/file/d/1sIhiUoUIvph-naV5g6evN6TaIxVFdk2h/view?usp=sharing)
 
 
-# Hangouts Chat card bot
-
-This code sample creates a simple Hangouts Chat bot that responds to events and
-messages from a room synchronously. The bot formats the response using cards,
-inserting widgets based upon the user's original input
-
-The sample is built using Python on Google App Engine, Standard Environment.
-
-## Run the sample in Hangouts Chat
+## How to run Hangouts Chat
 
   1. Create a new project in the
      [Google Cloud Console](https://console.cloud.google.com)
@@ -87,8 +79,10 @@ virtualenv deactivate
 ```
 
 ## Format of secret file:
+```
 {
 	"ElasticsearchIP": "",
 	"user": "",
 	"secret": ""
 }
+```
